@@ -1,0 +1,1 @@
+Repository to register my first steps in Go. Contains exercises of programming logic, most common used Go libraries and a couple small projects to practice those concepts. 
