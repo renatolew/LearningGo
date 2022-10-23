@@ -10,7 +10,7 @@ func main() {
 	_, erros := fmt.Println("Hello, world!", 199, "Hey!")
 	fmt.Println(erros)
 
-	// There are three types of variables in go: numbers, strings and bulls (booleans)
+	// There are three types of variables in go: numbers, strings and bool (boolean)
 	x := 10
 	y := "string"
 	z := true
