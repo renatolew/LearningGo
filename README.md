@@ -1,3 +1,3 @@
 Repository to register my first steps in Go. Contains exercises of programming logic, most common used Go libraries and a couple small projects to practice those concepts. 
 
-This repository's main goal is to act as complementary content to Go students in Comunidade CoDe, so here you will find code ranging from the very beginning of learning about computer science to some functional projects focused on the market needs.
+This repository's main goal is to act as complementary content to Go students in Comunidade CoDe, a brazilian programming community, so here you will find code ranging from the very beginning of learning about computer science to some functional projects focused on the market needs. There will be files in english and portuguese to make the repository accessible to students that don't speak english, so a couple files may have similar code with comments in different languages.
